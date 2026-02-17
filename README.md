@@ -218,6 +218,7 @@ python warehouse_rag.py
 5. Show grounded response
 
 ---
+https://drive.google.com/file/d/1YA-kw47Rf4dG6b-vcWJnJqeM3LLqcPUB/view?usp=sharing
 
 # 🏁 What This Project Demonstrates
 
